@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**aditya-kumar023/aditya-kumar023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aditya Kumar 👋
 
-Here are some ideas to get you started:
+### Aspiring Full Stack Developer | AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! 🚀
+
+## 🙋 About Me
+- 🌱 Currently learning Full Stack Development
+- 🤖 Interested in Artificial Intelligence
+- 💻 Exploring web development and coding
+- 🎯 Building projects and improving my skills
+
+## 🛠️ Skills I'm Learning
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 🎯 My Goals
+- Build real-world projects
+- Learn AI and modern web technologies
+- Contribute to open-source projects
+
+## 🤝 Connect With Me
+- GitHub: [@aditya-kumar023](https://github.com/aditya-kumar023)
+
+---
+⭐ Thanks for visiting my profile!
