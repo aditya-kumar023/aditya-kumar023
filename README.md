@@ -25,8 +25,8 @@ Welcome to my GitHub profile! 🚀
 - Contribute to open-source projects
 
 ## 🤝 Connect With Me
-- https://linkedin.com/in/https://www.linkedin.com/in/aditya-kumar024
+- linkedin: @aditya-kumar024
 - GitHub: [@aditya-kumar023](https://github.com/aditya-kumar023)
-- imakr023@gmail.com
+- Gmail: imakr023@gmail.com
 ---
 ⭐ Thanks for visiting my profile!
