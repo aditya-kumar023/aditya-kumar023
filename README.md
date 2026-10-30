@@ -6,6 +6,7 @@
 Welcome to my GitHub profile! 🚀
 
 ## 🙋 About Me
+- 💻 Passionate about building modern and responsive web applications.
 - 🌱 Currently learning Full Stack Development
 - 🤖 Interested in Artificial Intelligence
 - 💻 Exploring web development and coding
@@ -15,6 +16,7 @@ Welcome to my GitHub profile! 🚀
 - HTML
 - CSS
 - JavaScript
+- React.js
 - Git & GitHub
 
 ## 🎯 My Goals
@@ -23,7 +25,8 @@ Welcome to my GitHub profile! 🚀
 - Contribute to open-source projects
 
 ## 🤝 Connect With Me
+- https://linkedin.com/in/https://www.linkedin.com/in/aditya-kumar024
 - GitHub: [@aditya-kumar023](https://github.com/aditya-kumar023)
-
+- imakr023@gmail.com
 ---
 ⭐ Thanks for visiting my profile!
